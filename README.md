@@ -32,10 +32,6 @@ A web application developed to manage farm fires, built with Django during a sum
 - **Facebook**: [MedSalahArfa1](https://www.facebook.com/MedSalahArfa1)
 - **Instagram**: [med_salah_arfa1](https://www.instagram.com/med_salah_arfa1)
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MedSalahArfa1&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MedSalahArfa1)
-![Visitor Count](https://komarev.com/ghpvc/?username=MedSalahArfa1)
-
 
 <!--
 **MedSalahArfa1/MedSalahArfa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

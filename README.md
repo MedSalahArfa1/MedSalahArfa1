@@ -1,6 +1,7 @@
 # Hi there, I'm Mohamed Salah ARFA 👋
-I'm a Computer Science student at the Faculty of Sciences of Bizerte. Passionate about tech and programming, I'm always eager to learn and solve challenging problems.
+👨‍💻 I'm a Computer Science student with an insatiable curiosity for emerging technologies, always eager to explore the next big thing in the digital world. My passion for innovation drives me to stay at the forefront of the ever-evolving tech landscape.
 
+🤖 I thrive on the cutting edge of technology, constantly seeking opportunities to learn and grow. I'm dedicated to mastering the tools that power our digital future.
 ## 🛠 Skills
 - **Languages**:
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -47,7 +48,7 @@ A web application developed to manage farm fires, built with Django during a sum
 - **LinkedIn**: [Mohamed Salah ARFA](https://linkedin.com/in/medsalaharfa1)
 - **X**: [@MedSalahArfa1](https://x.com/MedSalahArfa1)
 - **Facebook**: [MedSalahArfa1](https://www.facebook.com/MedSalahArfa1)
-- **Instagram**: [med_salah_arfa1](https://www.instagram.com/med_salah_arfa1)
+- **Instagram**: [@med_salah_arfa1](https://www.instagram.com/med_salah_arfa1)
 
 
 

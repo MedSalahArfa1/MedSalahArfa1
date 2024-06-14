@@ -24,7 +24,10 @@ I'm a Computer Science student at the Faculty of Sciences of Bizerte. Passionate
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
   ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-
+- **IDEs**:
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ## 🚀 Projects
 ### [SmartLibManager](https://github.com/MedSalahArfa1/SmartLibManager)
@@ -45,6 +48,7 @@ A web application developed to manage farm fires, built with Django during a sum
 - **X**: [@MedSalahArfa1](https://x.com/MedSalahArfa1)
 - **Facebook**: [MedSalahArfa1](https://www.facebook.com/MedSalahArfa1)
 - **Instagram**: [med_salah_arfa1](https://www.instagram.com/med_salah_arfa1)
+
 
 
 <!--

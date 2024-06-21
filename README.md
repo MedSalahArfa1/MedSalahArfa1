@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MedSalahArfa1&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=6&theme=dark&hide_border=false" height="200" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MedSalahArfa1&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=6&theme=dark&hide_border=false" height="200" alt="languages graph" />
 </div>
 
 ###

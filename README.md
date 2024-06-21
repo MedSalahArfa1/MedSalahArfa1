@@ -50,6 +50,13 @@ A web application developed to manage farm fires, built with Django during a sum
 - **Facebook**: [MedSalahArfa1](https://www.facebook.com/MedSalahArfa1)
 - **Instagram**: [@med_salah_arfa1](https://www.instagram.com/med_salah_arfa1)
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MedSalahArfa1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 
 <!--

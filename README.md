@@ -38,19 +38,6 @@
 
 ###
 
-## 🚀 Projects
-### [SmartLibManager](https://github.com/MedSalahArfa1/SmartLibManager)
-An award-winning web application designed to revolutionize public library operations by managing books, users, and transactions efficiently.
-
-### [PharmAssist](https://github.com/MedSalahArfa1/PharmAssist)
-A web app to help users find medical products and local pharmacies, also providing inventory management tools for pharmacists.
-
-### [crt-rasdjebel.com](https://github.com/MedSalahArfa1/crt-rasdjebel.com)
-Website for the Tunisian Red Crescent's Ras Jebel committee, promoting positive impact and community engagement.
-
-### [FarmGuard](https://github.com/MedSalahArfa1/FarmGuard)
-A web application developed to manage farm fires, built with Django during a summer internship.
-
 ## 📫 Contact
 - **Email**: [mohamedsalaharfa@gmail.com](mailto:mohamedsalaharfa@gmail.com)
 - **LinkedIn**: [Mohamed Salah ARFA](https://linkedin.com/in/medsalaharfa1)

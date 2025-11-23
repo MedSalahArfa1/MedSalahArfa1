@@ -45,17 +45,11 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
-### **Other Notable Tools**
-Proficient with ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) Suite for documentation, presentations, and data analysis.
-
 ---
 
 ## 📫 Contact
 - **Email**: [mohamedsalaharfa@gmail.com](mailto:mohamedsalaharfa@gmail.com)
 - **LinkedIn**: [Mohamed Salah ARFA](https://linkedin.com/in/medsalaharfa1)
-- **X**: [@MedSalahArfa1](https://x.com/MedSalahArfa1)
-- **Facebook**: [MedSalahArfa1](https://www.facebook.com/MedSalahArfa1)
-- **Instagram**: [@med_salah_arfa1](https://www.instagram.com/med_salah_arfa1)
 
 
 

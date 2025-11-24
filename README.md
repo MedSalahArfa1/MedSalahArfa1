@@ -46,8 +46,6 @@
 ![n8n](https://img.shields.io/badge/n8n_Workflows-000000?style=for-the-badge&logo=n8n&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-7834F7?style=for-the-badge&logo=openaichatgpt&logoColor=white)
 
----
-
 ### IDEs & Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
